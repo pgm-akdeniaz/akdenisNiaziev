@@ -4,4 +4,4 @@ Ik studeer momenteel Web Development in Gent, waarbij ik vaardigheden opbouwde i
 
 - 🔭 Momenteel werken aan Project: Make It Happen
 - 🌱 Studeren: HTML, CSS, JS, EJS, Twig, Node.js  
-- 📫 Connect with me: ([LinkedIn](https://www.linkedin.com/in/akdenis-niaziev-44932b1b3/))
+- 📫 Connect with me: ([LinkedIn](https://www.linkedin.com/in/akdenis-niaziev))
